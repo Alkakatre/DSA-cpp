@@ -6,7 +6,7 @@ using namespace std ;
 int main(){
    int a,b,c;
    cin>>a>>b;
-   cout<<" additon is "<<a+b<<endl;
+   cout<<" additon of a and b is "<<a+b<<endl;
 
    printf("hellkjkxjckc");
 }
